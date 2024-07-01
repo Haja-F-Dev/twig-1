@@ -1,0 +1,17 @@
+{
+    "name": "frhaj/twig-1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Haja-F-Dev",
+            "email": "frhajadev@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.10"
+    }
+}
